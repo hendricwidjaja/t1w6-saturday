@@ -80,3 +80,13 @@ Print a right-angled triangle pattern of stars.
 Count the occurence of a letter in a list
 
 # enumerate() function
+Used to access the index and the value of the element of the list.
+Use two variables in the for loop.
+e.g. for index, animal in ....
+The first variable stores the value of the index.
+The second variable stores the value of the element
+
+animals = ["cat", "dog", "rabbit", "horse"]
+
+index would store = 0, 1, 2, 3
+animal would store = cat, dog, rabbit, horse
