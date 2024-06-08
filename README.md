@@ -28,3 +28,29 @@ While the condition is met, keep executing the indented block. If not met, skip 
 Things to consider:
     - Program can enter the loop
     - Program can exit the loop
+
+## Range
+Pre-defined function of Python (e.g. print) that generates a sequence of numbers.
+
+Useful: Loops for iterating a specific number of times over a sequence of numbers.
+
+range(1)
+1 is a parameter
+range(1, 2, 3)
+1, 2 and 3 are all parameters
+1 = starting number
+2 = stopping number
+3 = stepping number (go up the range by how many per step?)
+
+## For Loop
+For each item in a sequence, execute the indented statements.
+
+for variable_name in sequence:
+    statements...
+
+## Practice Example 1
+Finding the sum of the first ten numbers (1, 2, ... 10)
+
+## Practice Example 2 
+Find the largest number in the list
+list = [3, 41, 12, 9, 74, 15]
